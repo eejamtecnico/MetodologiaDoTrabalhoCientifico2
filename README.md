@@ -13,20 +13,24 @@ Materiais de aula do professor Berg Dantas.
         <th>Tema</th>
     </tr>
     <tr>
-        <td></td>
+        <td>25/03</td>
         <td>Acolhimento.</td>
     </tr>
     <tr>
-        <td></td>
+        <td>04/03</td>
         <td><a href="https://www.canva.com/design/DAHDEr5KOho/675FsKJKkq7zwRHAjJZ_Bw/edit?utm_content=DAHDEr5KOho&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Conceito de ciência e tipos de conhecimento: empírico, filosófico religioso e científico.</a></td>
     </tr>
     <tr>
-        <td></td>
+        <td>11/03</td>
         <td><a href="https://canva.link/0szuffy8185bgxa">Características do conhecimento científico.</a></td>
     </tr>
     <tr>
-        <td></td>
+        <td>18/03 até 25/03</td>
         <td><a href="https://canva.link/njmulbhz42s6f3s">Ética na pesquisa.</a></td>
+    </tr>
+        <tr>
+        <td>01/04</td>
+        <td>Feriado.</td>
     </tr>
     <tr>
         <td>08/04</td>
@@ -42,11 +46,11 @@ Materiais de aula do professor Berg Dantas.
     </tr>
     <tr>
         <td>29/04</td>
-        <td>Pesquisa, leitura e interpretação de textos científicos.</td>
+        <td>Apresentações do tema, problema e hipótese.</td>
     </tr>
     <tr>
         <td>06/05</td>
-        <td>Apresentações.</td>
+        <td>Resultados do primeiro bimestre</td>
     </tr>
 </table>
 
