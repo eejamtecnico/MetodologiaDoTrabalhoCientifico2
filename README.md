@@ -33,20 +33,20 @@ Materiais de aula do professor Berg Dantas.
         <td>Feriado.</td>
     </tr>
     <tr>
-        <td>08/04</td>
-        <td><a href="https://canva.link/9ebmc52p11vlmh1">Tema, problema e hipótese.</a></td>
-    </tr>
-    <tr>
-        <td>15/04</td>
-        <td>Introdução à pesquisa na área de informática.</td>
+        <td>08/04 até 15/04</td>
+        <td><a href="https://canva.link/9ebmc52p11vlmh1">Pesquisa: Tema, problema e hipótese.</a></td>
     </tr>
     <tr>
         <td>22/04</td>
-        <td>Pesquisa, leitura e interpretação de textos científicos.</td>
+        <td>Apresentações do tema, problema e hipótese.</td>
     </tr>
     <tr>
         <td>29/04</td>
-        <td>Apresentações do tema, problema e hipótese.</td>
+        <td>Introdução à pesquisa na área de informática.</td>
+    </tr>
+    <tr>
+        <td>06/05</td>
+        <td>Pesquisa, leitura e interpretação de textos científicos.</td>
     </tr>
     <tr>
         <td>06/05</td>
@@ -55,7 +55,7 @@ Materiais de aula do professor Berg Dantas.
 </table>
 
 ## Referências
-APPOLINÁRIO, Fábio. Metodologia da Ciência: Filosofia e Prática da Pesquisa. São Paulo:Thomson.2006.
+APPOLINÁRIO, Fábio. Metodologia da Ciência: Filosofia e Prática da Pesquisa. São Paulo:Thomson.2006. 
 
 SEVERINO, Joaquim Severino. Metodologia do Trabalho Científico. 21ª ed. São Paulo: Cortez. 2000.
 
