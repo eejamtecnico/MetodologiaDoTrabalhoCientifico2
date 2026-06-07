@@ -76,7 +76,7 @@ Materiais de aula do professor Berg Dantas.
 <table border="1">
     <tr>
         <td></td>
-        <td>Estatística para análise de dados estatísticos com planilhas eletrônicas</td>
+        <td>Estatística para análise de dados estatísticos com planilhas eletrônicas.</td>
     </tr>
     <tr>
         <td></td>
@@ -87,6 +87,48 @@ Materiais de aula do professor Berg Dantas.
         <td>Escrita de um artigo.</td>
     </tr>
 </table>
+
+## Competências
+
+### Primeiro bimestre
+
+<ul>
+    <li>Compreender o conceito de ciência, reconhecendo seu papel na produção do conhecimento e sua importância para o desenvolvimento humano e social.</li>
+    <li>Distinguir os diferentes tipos de conhecimento — empírico, filosófico, religioso e científico —, identificando suas características, limites e formas de validação.</li>
+    <li>Identificar e analisar as características do conhecimento científico, compreendendo princípios como objetividade, sistematização, verificabilidade e provisoriedade.</li>
+    <li>Refletir sobre a ética na pesquisa científica, reconhecendo os princípios que orientam a conduta responsável do pesquisador e os impactos sociais da produção científica.</li>
+</ul>
+
+### Segundo bimestre
+
+<ul>
+    <li>Reconhecer e produzir gêneros textuais acadêmicos, compreendendo suas características, estruturas e finalidades no contexto da comunicação científica.</li>
+    <li>Desenvolver estratégias de leitura de textos científicos, aplicando as técnicas de skimming (leitura global) e scanning (leitura seletiva) para localizar e compreender informações com eficiência.</li>
+    <li>Elaborar fichamentos e aplicar corretamente citações e referências bibliográficas conforme as normas da ABNT, garantindo o registro adequado e a atribuição de autoria.</li>
+    <li>Utilizar o Zotero como ferramenta de gestão bibliográfica, automatizando a criação de fichamentos, inserção de citações e geração de listas de referências.</li>
+    <li>Selecionar fontes confiáveis e atualizar o estado da arte, distinguindo publicações científicas de fontes não verificadas e mapeando as produções mais recentes sobre um tema de pesquisa.</li>
+</ul>
+
+
+### Terceiro bimestre
+
+<ul>
+    <li>Formular problemas de pesquisa, transformando inquietações e observações em questões científicas claras, delimitadas e investigáveis.</li>
+    <li>Elaborar hipóteses de pesquisa, compreendendo seu papel como resposta provisória ao problema e sua relação com o processo de investigação científica.</li>
+    <li>Definir objetivos geral e específicos, articulando-os coerentemente com o problema e a hipótese da pesquisa.</li>
+    <li>Selecionar e aplicar instrumentos de coleta de dados (entrevistas, formulários impressos ou digitais e bases de dados científicas e governamentais), adequando-os aos objetivos e à natureza da pesquisa.</li>
+</ul>
+
+### Quarto bimestre
+
+<ul>
+    <li>Aplicar conceitos de estatística para análise de dados, utilizando planilhas eletrônicas como ferramenta para organizar, calcular e interpretar resultados quantitativos de pesquisa.</li>
+    <li>Realizar análise de similaridade para dados qualitativos, utilizando o software IRAMUTEQ para identificar padrões, categorias e relações em corpus textuais.</li>
+    <li>Produzir um artigo científico, integrando os conhecimentos de formulação do problema, revisão de literatura, metodologia e análise de dados em um texto acadêmico estruturado e fundamentado.</li>
+</ul>
+
+
+
 
 ## Referências
 APPOLINÁRIO, Fábio. Metodologia da Ciência: Filosofia e Prática da Pesquisa. São Paulo:Thomson.2006. 
