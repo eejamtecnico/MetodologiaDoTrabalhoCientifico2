@@ -55,7 +55,7 @@ Materiais de aula do professor Berg Dantas.
 <table border="1">
     <tr>
         <td></td>
-        <td>Formulação de problema de pesquisa.</td>
+        <td>Como formular o problema de pesquisa?</td>
     </tr>
     <tr>
         <td></td>
