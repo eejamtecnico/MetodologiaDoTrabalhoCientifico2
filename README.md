@@ -30,7 +30,7 @@ Materiais de aula do professor Berg Dantas.
 <table border="1">
     <tr>
         <td>21/05 até 11/06</td>
-        <td>Gêneros textuais acadêmicos.<br /><a href="https://olhardigital.com.br/2026/06/07/pro/quem-vai-ganhar-a-copa-do-mundo-de-2026-supercomputador-preve-campeao/">Reportagem</a></td>
+        <td>Gêneros textuais acadêmicos.<br /><a href="https://github.com/eejamtecnico/MetodologiaDoTrabalhoCientifico2/blob/main/mtc2a.pdf">Reportagem</a></td>
     </tr>
     <tr>
         <td></td>
