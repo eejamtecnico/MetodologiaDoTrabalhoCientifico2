@@ -30,7 +30,8 @@ Materiais de aula do professor Berg Dantas.
 <table border="1">
     <tr>
         <td>21/05 até 11/06</td>
-        <td>Gêneros textuais acadêmicos.<br /><a href="https://github.com/eejamtecnico/MetodologiaDoTrabalhoCientifico2/blob/main/mtc2a.pdf">Reportagem</a></td>
+        <td>Gêneros textuais acadêmicos.<br /><a href="https://github.com/eejamtecnico/MetodologiaDoTrabalhoCientifico2/blob/main/mtc2a.pdf">Atividade 1</a><br /><a href="https://github.com/eejamtecnico/MetodologiaDoTrabalhoCientifico2/blob/main/mtc2b.pdf">Atividade 2</a></td>
+
     </tr>
     <tr>
         <td></td>
@@ -126,9 +127,6 @@ Materiais de aula do professor Berg Dantas.
     <li>Realizar análise de similaridade para dados qualitativos, utilizando o software IRAMUTEQ para identificar padrões, categorias e relações em corpus textuais.</li>
     <li>Produzir um artigo científico, integrando os conhecimentos de formulação do problema, revisão de literatura, metodologia e análise de dados em um texto acadêmico estruturado e fundamentado.</li>
 </ul>
-
-
-
 
 ## Referências
 APPOLINÁRIO, Fábio. Metodologia da Ciência: Filosofia e Prática da Pesquisa. São Paulo:Thomson.2006. 
