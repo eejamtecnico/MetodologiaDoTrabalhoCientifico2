@@ -30,8 +30,7 @@ Materiais de aula do professor Berg Dantas.
 <table border="1">
     <tr>
         <td>21/05 até 11/06</td>
-        <td>Gêneros textuais acadêmicos.<br /><a href="https://github.com/eejamtecnico/MetodologiaDoTrabalhoCientifico2/blob/main/mtc2a.pdf">Atividade 1</a><br /><a href="https://github.com/eejamtecnico/MetodologiaDoTrabalhoCientifico2/blob/main/mtc2b.pdf">Atividade 2</a></td>
-
+        <td><p>Gêneros textuais acadêmicos.</p><p><a href="https://github.com/eejamtecnico/MetodologiaDoTrabalhoCientifico2/blob/main/mtc2a.pdf">Atividade 1</a></p><p><a href="https://github.com/eejamtecnico/MetodologiaDoTrabalhoCientifico2/blob/main/mtc2b.pdf">Atividade 2</a></p></td>
     </tr>
     <tr>
         <td></td>
